@@ -5,7 +5,6 @@
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
-    "gitee-bd": "ng b --aot --prod --base-href=https://littleostar-angular.gitee.io/angular2-hello-world-ngbook2",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
