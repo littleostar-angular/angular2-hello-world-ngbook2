@@ -1,4 +1,8 @@
 
+deploy this project to tomcat server, and router is work success. 
+
+https://github.com/littleostar-angular/maven-webapp-load-angular
+
 ---
 user-list.component.html
 
