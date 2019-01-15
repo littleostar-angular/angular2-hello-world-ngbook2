@@ -6,6 +6,8 @@
     "start": "ng serve",
     "build": "ng build",
     "build-local": "ng build --prod --aot --baseHref=.",
+    "gh-bd": "ng b --aot --prod --base-href=https://littleostar-angular.github.io/angular2-hello-world-ngbook2/",
+    "gh-pb": "npx ngh --dir=dist/angular2-hello-world-ngbook2 --no-silent ",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"
@@ -33,6 +35,7 @@
     "@types/node": "~8.9.4",
     "@types/jasmine": "~2.8.8",
     "@types/jasminewd2": "~2.0.3",
+    "angular-cli-ghpages": "^0.5.3",
     "codelyzer": "~4.5.0",
     "jasmine-core": "~2.99.1",
     "jasmine-spec-reporter": "~4.2.1",
